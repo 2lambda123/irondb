@@ -22,7 +22,7 @@
     "ejs": "~3.1.7",
     "express": "~4.17.3",
     "express-promise-router": "^3.0.3",
-    "express-sanitizer": "^1.0.5",
+    "express-sanitizer": "^1.0.6",
     "express-session": "^1.15.6",
     "formidable": "^1.2.1",
     "http-errors": "~1.6.2",
