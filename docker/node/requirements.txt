@@ -28,7 +28,7 @@ python-dateutil==2.7.5
 pytz==2018.7
 rake_nltk==1.0.3
 readline==6.2.4.1
-requests==2.20.1
+requests==2.31.0
 singledispatch==3.4.0.3
 six==1.11.0
 sortedcontainers==2.1.0
